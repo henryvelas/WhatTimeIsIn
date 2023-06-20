@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\bin\Debug\net6.0-windows\WhatTimeIsIn.exe
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\bin\Debug\net6.0-windows\WhatTimeIsIn.deps.json
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\bin\Debug\net6.0-windows\WhatTimeIsIn.runtimeconfig.json
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\bin\Debug\net6.0-windows\WhatTimeIsIn.dll
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\bin\Debug\net6.0-windows\WhatTimeIsIn.pdb
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.Form1.resources
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.AssemblyInfo.cs
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.dll
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\refint\WhatTimeIsIn.dll
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.pdb
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\WhatTimeIsIn.genruntimeconfig.cache
+C:\Users\ASUS\Documents\C#\WhatTimeIsIn\WhatTimeIsIn\obj\Debug\net6.0-windows\ref\WhatTimeIsIn.dll
