@@ -1,3 +1,3 @@
 # WhatTimeIsIn
 
-- Creacion de un WinForm que muestre la hora de diferentes ciudades y la local utilizando un timer
+- Creation of a WinForm that shows the time and date of different cities include the local time using a timer
